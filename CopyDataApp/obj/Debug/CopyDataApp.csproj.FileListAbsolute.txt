@@ -1,0 +1,8 @@
+C:\Users\Медиацентр\source\repos\CopyDataApp\CopyDataApp\bin\Debug\CopyDataApp.exe.config
+C:\Users\Медиацентр\source\repos\CopyDataApp\CopyDataApp\bin\Debug\CopyDataApp.exe
+C:\Users\Медиацентр\source\repos\CopyDataApp\CopyDataApp\bin\Debug\CopyDataApp.pdb
+C:\Users\Медиацентр\source\repos\CopyDataApp\CopyDataApp\obj\Debug\CopyDataApp.csproj.AssemblyReference.cache
+C:\Users\Медиацентр\source\repos\CopyDataApp\CopyDataApp\obj\Debug\CopyDataApp.csproj.SuggestedBindingRedirects.cache
+C:\Users\Медиацентр\source\repos\CopyDataApp\CopyDataApp\obj\Debug\CopyDataApp.csproj.CoreCompileInputs.cache
+C:\Users\Медиацентр\source\repos\CopyDataApp\CopyDataApp\obj\Debug\CopyDataApp.exe
+C:\Users\Медиацентр\source\repos\CopyDataApp\CopyDataApp\obj\Debug\CopyDataApp.pdb
